@@ -1,0 +1,6 @@
+{
+  "name": "Portal da Semana Acadêmica de Pedagogia",
+  "description": "Plataforma completa de divulgação, inscrições, credenciamento via QR Code e emissão/validação de certificados para a Semana Acadêmica de Pedagogia.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
